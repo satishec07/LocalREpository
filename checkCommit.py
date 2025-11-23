@@ -3,3 +3,5 @@ def val():
     print("oooo")
 def sum():
     print("Hi")
+    print("Hello")
+
